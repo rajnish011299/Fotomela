@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "584187609454",
+    "firebase_url": "https://fotomela-ec29d.firebaseio.com",
+    "project_id": "fotomela-ec29d",
+    "storage_bucket": "fotomela-ec29d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584187609454:android:1ad7f893825f7fec90c17f",
+        "android_client_info": {
+          "package_name": "com.rajumia.fotomela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584187609454-r47190fk49ckolsm4alh4c95m8p3cb53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajumia.fotomela",
+            "certificate_hash": "0c0b8c78470986466b3cc1dc5ec09ec1cff32f72"
+          }
+        },
+        {
+          "client_id": "584187609454-siljhgnvqp7f79rveme8unklpsueasn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsb9zgJ4rwTnBI2WL7PWrS0XYxUuzsji8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584187609454-siljhgnvqp7f79rveme8unklpsueasn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
